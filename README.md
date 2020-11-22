@@ -10,3 +10,5 @@ npm install
 Or
 Yarn install
 ```
+
+![gif](https://i.ibb.co/b5bbncL/ezgif-3-661726dbd267.gif)
